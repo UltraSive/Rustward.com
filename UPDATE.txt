@@ -1,0 +1,19 @@
+This update comes with a huge fix for the font used on the website, as well as an FAQ module!
+
+v1.0.3
+- Updated the font. The originally used font did not display unless you had it installed on your PC. The template should look much cleaner now.
+- Added FAQ section to be able to provide more information to the users. It is disabled by default in your config file.
+- Header texts of the sections (Shop, Rules, Staff, FAQ) can now be changed through the config
+- Navigation link names of the sections ( Shop, Rules, Staff, FAQ) can now be changed through the config
+- Fixed an issue where the server description would not be shown correctly (mostly on modded servers)
+- Fixed list elements in the Shop list having the wrong color
+- Changed button sizing in server popup
+
+UPDATE INSTRUCTIONS (Only if you have a previous version of the template on your webspace)
+=========================
+1. Backup all your existing files from your webspace (especially the edited config)
+2. Remove all the files from your webspace.
+3. Put your custom images into the new website files. Update the new config with the values from your old configuration file.
+4. Make sure to remove UPDATE.txt and README.txt before uploading!
+5. Upload the files back to your webspace!
+=========================
